@@ -8,11 +8,33 @@ namespace FIFA
 {
     public class Football : Ball
     {
+        private List<IObserver> observers = new List<IObserver>();
+
         private BallPosition position;
 
         public Football()
         {
             position = new BallPosition();
+        }
+
+        public void Attach(IObserver observer)
+        {
+            observers.Add(observer);
+        }
+        public void Detach(IObserver observer)
+        {
+            observers.Remove(observer);
+        }
+
+        public void Notify()
+        {
+            if (observers != null)
+            {
+                foreach (IObserver observer in observers)
+                {
+                    observer.Update(this);
+                }
+            }
         }
 
         public BallPosition GetPosition() { return position; }
