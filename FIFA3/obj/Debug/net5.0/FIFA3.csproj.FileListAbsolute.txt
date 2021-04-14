@@ -1,0 +1,12 @@
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\bin\Debug\net5.0\FIFA3.deps.json
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\bin\Debug\net5.0\FIFA3.dll
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\bin\Debug\net5.0\ref\FIFA3.dll
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\bin\Debug\net5.0\FIFA3.pdb
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.csprojAssemblyReference.cache
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.AssemblyInfoInputs.cache
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.AssemblyInfo.cs
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.csproj.CoreCompileInputs.cache
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.dll
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\ref\FIFA3.dll
+E:\My Programs\ITIC#\Day1_DP_ITI\FIFA3\obj\Debug\net5.0\FIFA3.pdb

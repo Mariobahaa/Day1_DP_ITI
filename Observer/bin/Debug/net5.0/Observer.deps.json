@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Observer/1.0.0": {
+        "dependencies": {
+          "FIFA": "1.0.0"
+        },
+        "runtime": {
+          "Observer.dll": {}
+        }
+      },
+      "FIFA/1.0.0": {
+        "runtime": {
+          "FIFA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIFA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Strategy/1.0.0": {
+        "dependencies": {
+          "FIFA2": "1.0.0"
+        },
+        "runtime": {
+          "Strategy.dll": {}
+        }
+      },
+      "FIFA2/1.0.0": {
+        "runtime": {
+          "FIFA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIFA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
